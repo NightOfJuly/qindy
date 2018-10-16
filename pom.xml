@@ -57,6 +57,12 @@
 			<artifactId>h3</artifactId>
 			<version>3.0.4</version>
 		</dependency>
+		<!-- https://mvnrepository.com/artifact/io.sgr/s2-geometry-library-java -->
+		<dependency>
+			<groupId>io.sgr</groupId>
+			<artifactId>s2-geometry-library-java</artifactId>
+			<version>1.0.0</version>
+		</dependency>
 		<!-- https://mvnrepository.com/artifact/org.apache.commons/commons-lang3 -->
 		<dependency>
 			<groupId>org.apache.commons</groupId>
@@ -69,6 +75,13 @@
 			<artifactId>spring-kafka</artifactId>
 			<version>2.1.2.RELEASE</version>
 		</dependency>
+		<!-- https://mvnrepository.com/artifact/org.apache.shiro/shiro-spring -->
+		<dependency>
+			<groupId>org.apache.shiro</groupId>
+			<artifactId>shiro-spring</artifactId>
+			<version>1.4.0</version>
+		</dependency>
+
 
 	</dependencies>
 
